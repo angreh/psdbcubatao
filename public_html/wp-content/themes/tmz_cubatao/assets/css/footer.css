@@ -1,0 +1,94 @@
+#footer
+{
+    border-top: #003662 1px solid;
+    background: #daecf5;
+    padding: 70px 0;
+}
+#footer .logo
+{
+    float: left;
+    position: relative;
+}
+#footer .logo a
+{
+    background: url("/wp-content/themes/tmz_cubatao/assets/imgs/footer_logo.png") no-repeat;
+    display: block;
+    font-size: 0;
+    background-size: cover;
+}
+#footer .logo a
+{
+    width: 100%;
+    padding: 28.947% 0 0 0;
+}
+#footer .logo
+{
+    width: 100%;
+}
+#footer .right
+{
+    float: right;
+    width: 100%;
+}
+@media (min-width: 670px)
+{
+    #footer .logo
+    {
+        width: 35%;
+    }
+    #footer .right
+    {
+        float: right;
+        width: 60%;
+    }
+}
+#footer .right .title
+{
+    color: #1386c4;
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 900;
+}
+#footer .right .separator
+{
+    background-color: #1280c1;
+    height: 3px;
+    position: relative;
+}
+#footer strong
+{
+    font-weight: 700;
+}
+@media (min-width: 1100px)
+{
+    #footer .logo a
+    {
+        width: 412px;
+        padding: 31% 0 0 0;
+    }
+    #footer .right
+    {
+        float: right;
+        width: 560px;
+    }
+    #footer .right .separator:before
+    {
+        content: ' ';
+        height: 3px;
+        width: 900px;
+        background: #1280c1;
+        right: -900px;
+        top: 0;
+        position: absolute;
+    }
+}
+#footer small
+{
+    font-size: 0.75em;
+}
+#footer .footer-face-wrapper img,
+#footer .footer-face-wrapper span
+{
+    display: inline-block;
+    vertical-align: middle;
+}

@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,900italic,900,700italic,700,600italic,600,400italic,300italic,300,200italic);
+
+html
+{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+* {
+    font-family: 'Source Sans Pro', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #003662;
+}
+.container
+{
+    position: relative;
+    clear: both;
+    padding: 0 20px;
+    margin: 0;
+}
+@media (min-width: 1100px)
+{
+    .container
+    {
+        width: 1060px;
+        margin: 0 auto;
+        padding: 0;
+    }
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* PAGINATION : BEGIN */
+.navigation li a,
+.navigation li a:hover,
+.navigation li.active a,
+.navigation li.disabled {
+    color: #fff;
+    text-decoration:none;
+}
+
+.navigation li {
+    display: inline;
+}
+
+.navigation li a,
+.navigation li a:hover,
+.navigation li.active a,
+.navigation li.disabled {
+    background-color: #6FB7E9;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 12px;
+    padding: 0.75rem;
+}
+
+.navigation li a:hover,
+.navigation li.active a {
+    background-color: #3C8DC5;
+}
+/* PAGINATION : END */
