@@ -31,8 +31,13 @@
 <div id="header">
     <div class="container">
 
-        <div class="pic"><a href="/">ADEMARIO</a></div>
         <div class="logo"><a href="/">ADEMARIO</a></div>
+
+    </div>
+</div><!-- #header -->
+
+<div id="menu">
+    <div class="container clearfix">
 
         <div class="menu-wrapper">
             <a href="#" id="header_mobile_menu">MENU &blacktriangledown;</a>
@@ -42,9 +47,8 @@
             <div class="header-face-icon"><a href="https://www.facebook.com/ademario.silvaoliveira" target="_blank"></a></div>
         </div>
 
-
     </div>
-</div><!-- #header -->
+</div><!-- #menu -->
 
 <div id="body">
     <div class="container">

@@ -1,7 +1,7 @@
 #footer
 {
     border-top: #003662 1px solid;
-    background: #daecf5;
+    background: #005C9F;
     padding: 70px 0;
 }
 #footer .logo
@@ -11,7 +11,7 @@
 }
 #footer .logo a
 {
-    background: url("/wp-content/themes/tmz_cubatao/assets/imgs/footer_logo.png") no-repeat;
+    background: url("/wp-content/themes/tmz_cubatao/assets/imgs/header_logo.png") no-repeat;
     display: block;
     font-size: 0;
     background-size: cover;
@@ -44,7 +44,7 @@
 }
 #footer .right .title
 {
-    color: #1386c4;
+    color: #ffffff;
     font-size: 2em;
     font-style: italic;
     font-weight: 900;
@@ -63,8 +63,8 @@
 {
     #footer .logo a
     {
-        width: 412px;
-        padding: 31% 0 0 0;
+        width: 356px;
+        padding: 40% 0 0 0;
     }
     #footer .right
     {
