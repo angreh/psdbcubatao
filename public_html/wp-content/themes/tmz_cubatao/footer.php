@@ -6,7 +6,7 @@
         <div class="container clearfix">
 
             <div class="left">
-                <div class="logo"><a href="/">Ademario Oliveira</a></div>
+                <div class="logo"><a href="/"PSDB Cubatão</a></div>
             </div>
 
             <div class="right">
@@ -16,11 +16,11 @@
                 <div class="separator"></div>
 
                 <small>(13)</small> 3362 1037<br>
-                <strong>ademario</strong>@ademario.com.br<br>
-                <div class="footer-face-wrapper">
-                    <img src="/wp-content/themes/tmz_cubatao/assets/imgs/footer_icon_face.png">
-                    <span>/<strong>ademario</strong>.silvaoliveira</span>
-                </div>
+                <strong>contato</strong>@psdbcubatao.com.br<br>
+<!--                <div class="footer-face-wrapper">-->
+<!--                    <img src="/wp-content/themes/tmz_cubatao/assets/imgs/menu_icon_face.png">-->
+<!--                    <span>/<strong>ademario</strong>.silvaoliveira</span>-->
+<!--                </div>-->
 
             </div><!-- .right -->
 
